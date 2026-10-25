@@ -2151,5 +2151,4 @@ async function sendTweetToTg(env, chatId, caption, photos, videos, senderLabel =
   if (allVideoSkippedOversize) return "OVERSIZE_VIDEO";
   if (lastErr) throw lastErr;
   throw new Error("无内容可发送"); 
-
-
+}
