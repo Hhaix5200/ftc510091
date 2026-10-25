@@ -1,11 +1,11 @@
-name = "ftc51002"
+name = "ftc51003"
 main = "src/index.js"
 compatibility_date = "2025-01-01"
 
 [[d1_databases]]
 binding = "DB"
-database_name = "ftc51002"
-database_id = "2ffd53a7-bf8e-496a-9b96-4fed0c347e27"
+database_name = "ftc51003"
+database_id = "2e48ba33-d368-40aa-a68f-1d2c00abfdab"
 
 [[durable_objects.bindings]]
 name = "TASK_DO"
